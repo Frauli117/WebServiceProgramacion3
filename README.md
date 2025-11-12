@@ -1,6 +1,6 @@
 ## Script de base de datos
 
-En la carpeta `db/` se incluye el archivo:
+En el proyecto se incluye el archivo:
 
 - `scriptProyectoProgra3.sql`
 
